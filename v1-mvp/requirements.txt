@@ -1,0 +1,6 @@
+# V1 MVP - No external dependencies needed!
+# We're using manual workflow with Claude Pro
+
+# For future API version:
+# anthropic>=0.18.0
+# python-dotenv>=1.0.0
